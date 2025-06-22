@@ -6,8 +6,6 @@ A modern full-stack **task collaboration system** where users can log in, create
 
 ## 📸 Screenshots
 
-> Replace these image paths with your actual screenshots.
-
 ![Login Page](![image](https://github.com/user-attachments/assets/da349df6-d8e7-4831-8227-0de223dfe0aa)
 )  
 *Login Screen*
